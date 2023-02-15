@@ -486,9 +486,9 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-gift:before { content: fa-content($fa-var-gift); }
 .#{$fa-css-prefix}-git:before { content: fa-content($fa-var-git); }
 .#{$fa-css-prefix}-git-square:before { content: fa-content($fa-var-git-square); }
-.#{$fa-css-prefix}-github:before { content: fa-content($fa-var-github); }
-.#{$fa-css-prefix}-github-alt:before { content: fa-content($fa-var-github-alt); }
-.#{$fa-css-prefix}-github-square:before { content: fa-content($fa-var-github-square); }
+.#{$fa-css-prefix}-github:before { content: fa-content($fa-github); }
+.#{$fa-css-prefix}-github-alt:before { content: fa-content($fa-github-alt); }
+.#{$fa-css-prefix}-github-square:before { content: fa-content($fa-github-square); }
 .#{$fa-css-prefix}-gitkraken:before { content: fa-content($fa-var-gitkraken); }
 .#{$fa-css-prefix}-gitlab:before { content: fa-content($fa-var-gitlab); }
 .#{$fa-css-prefix}-gitter:before { content: fa-content($fa-var-gitter); }
