@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "EliaPiccoli - About Me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Elia Piccoli is a Ph.D. student in Computer Science at the University of Pisa. He is a member of the _Computational Intelligence and Machine Learning_ ([_CIML_](https://ciml.di.unipi.it/)) group and _Pervasive AI Lab_ ([_PAILab_](http://pai.di.unipi.it/)) focusing on Continual Learning. He is part of the _Driverless Division_ at [E-Team Squadra Corse](https://www.eteamsquadracorse.it/) working on the autonomous driving car.
+Elia Piccoli is a Ph.D. student in Computer Science at the University of Pisa. He is a member of the _Computational Intelligence and Machine Learning_ ([_CIML_](https://ciml.di.unipi.it/)) group and _Pervasive AI Lab_ ([_PAILab_](http://pai.di.unipi.it/)) focusing on Continual Learning. He is part of the _Driverless Division_ at [_E-Team Squadra Corse_](https://www.eteamsquadracorse.it/) working on the autonomous driving car.
+
+His research interests focus on _Reinforcement Learning_, _Continual Learning_ and _Self-Supervised_ approaches. In particular, his current work is related to studying novel approaches to create agents that can learn to solve multiple tasks at the same time, e.g., play different Atari games, with a particular interest in how to represent different abilities and previous knowledge that can be exploited while learning and solving new tasks through time.
