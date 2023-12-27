@@ -32,7 +32,12 @@ Experience
 ======
 * Teaching Assistant
   * _Location_: University of Pisa
-  * _Period_: 02/2023 - _PRESENT_
+  * _Period_: 09/2023 - 12/2023
+  * _Course_: Artificial Intelligence Fundamentals
+
+* Teaching Assistant
+  * _Location_: University of Pisa
+  * _Period_: 02/2023 - _06/2023_
   * _Course_: Computer Architectures and Operating Systems
 
 * Autonomous Planning Engineer
