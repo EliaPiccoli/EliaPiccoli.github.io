@@ -37,7 +37,7 @@ Experience
 
 * Teaching Assistant
   * _Location_: University of Pisa
-  * _Period_: 02/2023 - _06/2023_
+  * _Period_: 02/2023 - 06/2023
   * _Course_: Computer Architectures and Operating Systems
 
 * Autonomous Planning Engineer
